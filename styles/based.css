@@ -94,6 +94,7 @@
     margin-bottom: 18px;
     padding: 10px;
     margin-inline-start: 20px 40px;
+     gap: 25px;
 
     /* future styles */
 
@@ -119,14 +120,17 @@
 .digital{
     background-color: #81B4FC;
     padding: 20px;
+    border-radius: 8px;
 }
 .energy{
     background-color: #388d67;
     padding: 20px;
+    border-radius: 8px;
 }
 .modern{
     background-color: #f6b911;
     padding: 20px;
+    border-radius: 8px;
 }
 .future-1{
     background-color: #086dfa;
@@ -153,8 +157,27 @@
     border-radius: 6px;
     margin-top: 7px;
 }
-
-
+/*  dr.yunus  */
+.yunus-content{
+    background-color: cornsilk;
+    gap: 15px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    margin-left: 60px;
+    padding: 20px;
+    margin-right: 40px;
+    background-position:  top left 20px ;
+    margin-bottom: 40px;
+}
+#yunus-sub{
+    color: #0e0e0e80;
+    margin-bottom: 10px;
+    
+}
+#yunus-title{
+    color: #0e0e0ebf;
+}
     
 
 
@@ -162,4 +185,3 @@
 
 
 
-}
