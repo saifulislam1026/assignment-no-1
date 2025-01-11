@@ -84,6 +84,7 @@
     margin-left: 60px;
     font-weight: 900;
     
+    
     /* box-shadow: 0px 6px 50px 0px rgba(0,0,00.06); */
 }
 .pillars-content{
@@ -92,7 +93,69 @@
     border-radius: 8px;
     margin-bottom: 18px;
     padding: 10px;
-    background-color: ;
+    margin-inline-start: 20px 40px;
+
+    /* future styles */
+
+
+}
+.future-content{
+     display: flex;
+     justify-content: space-between;
+     margin: 30px 50px 60px 60px;
+     gap: 25px;
+
+}
+.fu-title {
+    font-weight: 900;
+    font-size: larger;
+    margin-left: 60px;
+    margin-top: 40px;
+    padding: 5px;
+}
+.fu-des{
+    margin-left: 60px ;
+}
+.digital{
+    background-color: #81B4FC;
+    padding: 20px;
+}
+.energy{
+    background-color: #388d67;
+    padding: 20px;
+}
+.modern{
+    background-color: #f6b911;
+    padding: 20px;
+}
+.future-1{
+    background-color: #086dfa;
+    border-radius: 6px;
+    box-shadow: #086dfa;
+    color: aliceblue;
+    padding: 4px 6px;
+    border-color: #086dfa;
+    margin-top: 7px;
+}
+.future-2{
+    background-color: #029c57;
+    color: aliceblue;
+    box-shadow: #388d67;
+    padding: 4px 6px;
+    border-radius: 6px;
+    margin-top: 7px;
+}
+.future-3{
+    background-color: #f6b911;
+    color: aliceblue;
+    box-shadow: #f6b911;
+    padding: 4px 6px;
+    border-radius: 6px;
+    margin-top: 7px;
+}
+
+
+    
 
 
 
