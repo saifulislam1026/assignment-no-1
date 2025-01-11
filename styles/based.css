@@ -178,8 +178,70 @@
 #yunus-title{
     color: #0e0e0ebf;
 }
+/* satellite */
+.parents{
+    margin-left: 60px;
+    /* justify-content: space-between; */
+    background-color: rgba(250, 235, 215, 0.453);
+    border-radius: 15px;
+    margin-right: 30px;
+   
     
+}
+.news{
+    margin-top: 40px ;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    padding: 0px;
+}
+.child-1 {
+  display: flex;
+   align-items: center; 
+    /* gap: 25px; */
+}
+.satellite-profile{
+    width: 400px;
+    height: 300px;
+    padding: 70px;
+    
+}
+.date-time{
+    display: flex;
+    gap: 10px;
+}
+#sat-btn {
+    margin-top: 10px;
+    padding: 8px 10px;
+    background-color: #006A50;
+   color: white;
+    border-radius: 15px;
+}
+.sat-img{
+    border-radius: 8px;
+}
+.sat-box{
+    margin-left: 60px;
+    /* justify-content: space-between; */
+    background-color: rgba(250, 235, 215, 0.493);
+    border-radius: 12px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.sat-img-2{
+    display: flex;
+    width: 400px;
+    height: 300px;
+    padding: 70px;
+    border-radius: 12px;
 
+}
+.sat-box-content{
+  padding: 50px;
+  
+}
 
 
 
