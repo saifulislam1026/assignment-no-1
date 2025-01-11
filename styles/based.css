@@ -26,26 +26,26 @@
     padding: 10px 18px; 
     border-radius: 8px;
     margin-left: 20px;
-
  }
-
- 
  nav{
     display: flex;
     justify-content: space-between;
     margin: 15px 100px;
     font-weight: bold;
  }
+
  /* banner styles*/
+
+
  .banner{
-    width: 900px;
+    width: 1200px;
     height: 400px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     background-color: #C6E4D6;
     border-radius: 22px;
-    padding: 18px;
+    padding: 30px;
 
  }
  .banner-content{
@@ -68,7 +68,7 @@
 
  }
  .second-btn :hover {
-    background-color: #70a295;
+    background-color: #a28970;
  }
 .banner-profile{
     width: 330px;
@@ -78,13 +78,13 @@
 }
 
 /* pillars styles */
+
+
 .pillars{
     gap: 24px;
     margin-top: 70px;
     margin-left: 60px;
     font-weight: 900;
-    
-    
     /* box-shadow: 0px 6px 50px 0px rgba(0,0,00.06); */
 }
 .pillars-content{
@@ -96,8 +96,7 @@
     margin-inline-start: 20px 40px;
      gap: 25px;
 
-    /* future styles */
-
+ /* future styles */
 
 }
 .future-content{
@@ -158,6 +157,7 @@
     margin-top: 7px;
 }
 /*  dr.yunus  */
+
 .yunus-content{
     background-color: cornsilk;
     gap: 15px;
@@ -179,6 +179,7 @@
     color: #0e0e0ebf;
 }
 /* satellite */
+
 .parents{
     margin-left: 60px;
     /* justify-content: space-between; */
@@ -243,7 +244,116 @@
   
 }
 
+/* donate box */
 
+.universe{
+    text-align: center;
+    width: 1200px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 65px;
+    border-radius: 12px;
+   background-color: whitesmoke;
+   margin-bottom: 40px;
+}
+.star{
+    font-size: large;
+    display: inline;
+    border-radius: 12px;
+    font-weight: bold;
+    padding: 15px;
+    color: #0e0e0e51;
+    border: 2px solid rgba(14, 14, 14, 0.282);
+}
+.galaxy{
+     padding-bottom: 20px;
+     margin-left: 20px;
+}
+.sun{
+    padding: 30px;
+    padding-bottom: 28px;
+    /* padding-top: 20px; */
+}
+.card{
+    width: 850px;
+    height: 48px;
+    text-align: center;
+    margin-bottom: 28px;
+}
+.universe-btn{
+    color: azure;
+    background-color: #006A50;
+    padding: 13px 22px;
+    border-radius: 10px;
+    
+}
+#moon{
+    background-color: #029c57;
+}
+/* last main */
+.fourth-main{
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 12px;
+    background-color: #C6E4D6;
+    width: 1280px;
+    height: 395px;
+    text-align: center;
+
+}
+.main-type{
+    padding-top: 69px;
+    font-weight: bold;
+    font-size: 48px;
+}
+.normal-type{
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: #474747;
+    padding-top: 14px;
+    height: 40px;
+}
+.fourth-input{
+    color: white;
+    border-radius: 7px;
+    padding-left: 18px;
+    height: 56px;
+    width: 750px;
+}
+.click-me{
+    width: 150px;
+    height: 56px;
+    border-radius: 7px;
+    font-size: 14px;
+    font-weight: bold;
+    color: azure;
+    background-color: #006A50;
+}
+.last{
+    font-size: medium;
+    font-weight: bold;
+    color: #474747a7;
+
+}
+/* Finishing Part */
+.paragraph-last{
+        /* width: 900px; */
+        /* height: 170px; */
+        text-align: center;
+        margin: 17px;
+        padding-bottom: 10px;
+        margin-top: 100px;
+        margin-right: 130px;
+}
+.finish{
+    margin-left: 700px;
+    margin-bottom: 50px;
+    padding-bottom: 70px;
+    gap: 28px;
+    padding: 18px;
+   display: flex;
+   align-items: center;
+}
 
 
 
