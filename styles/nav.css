@@ -1,13 +1,13 @@
 
 
 .star:hover{
-    background-color: aqua;
+    background-color: gold;
 }
 .first-btn:hover{
-    background-color: bisque;
+    background-color: chartreuse;
 }
 .second-btn:hover{
-    background-color: gray;
+    background-color: darkmagenta;
 }
 #sat-btn:hover{
     background-color: rgba(0, 255, 255, 0.289);
@@ -17,4 +17,13 @@
 }
 .click-me:hover{
     background-color: bisque;
+}
+.fourth-input:hover{
+    background-color: cadetblue;
+}
+.card:hover{
+    background-color: yellow;
+}
+#MOON:hover{
+    background-color: hotpink;
 }
