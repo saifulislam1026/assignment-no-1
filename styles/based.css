@@ -77,7 +77,26 @@
 
 /* pillars styles */
 
-
+.pillar-1{
+    background-color: rgba(245, 245, 220, 0.389);
+    padding-left: 30px;
+    padding-top: 20px ;
+}
+.pillar-2{
+    background-color: rgba(245, 245, 220, 0.386);
+    padding-left: 30px;
+    padding-top: 20px ;
+}
+.pillar-3{
+    background-color: rgba(245, 245, 220, 0.385);
+    padding-left: 30px;
+    padding-top: 20px ;
+}
+.pillar-4{
+    background-color: rgba(245, 245, 220, 0.395);
+    padding-left: 30px;
+    padding-top: 20px ;
+}
 .pillars{
     gap: 24px;
     margin-top: 70px;
