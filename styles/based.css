@@ -67,9 +67,7 @@
     margin-left: 20px;
 
  }
- .second-btn :hover {
-    background-color: #a28970;
- }
+
 .banner-profile{
     width: 330px;
     height: 300px;
@@ -249,7 +247,7 @@
 .universe{
     text-align: center;
     width: 1200px;
-    height: 300px;
+    height: 400px;
     margin-left: 100px;
     margin-top: 65px;
     border-radius: 12px;
@@ -268,6 +266,7 @@
 .galaxy{
      padding-bottom: 20px;
      margin-left: 20px;
+     padding-top: 90px;
 }
 .sun{
     padding: 30px;

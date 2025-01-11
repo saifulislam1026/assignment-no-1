@@ -1,0 +1,20 @@
+
+
+.star:hover{
+    background-color: aqua;
+}
+.first-btn:hover{
+    background-color: bisque;
+}
+.second-btn:hover{
+    background-color: gray;
+}
+#sat-btn:hover{
+    background-color: rgba(0, 255, 255, 0.289);
+}
+.universe-btn:hover{
+    background-color: darkmagenta;
+}
+.click-me:hover{
+    background-color: bisque;
+}
